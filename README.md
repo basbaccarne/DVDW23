@@ -15,24 +15,26 @@ set-up voor **dag van de wetenschap, editie 2023**
 # Actions
 ## Must have
 ### E-Hardware
-- [ ] Clean Case (print)
-- [ ] Cup holders (laser, with lanes)
+- [x] Clean Case (print)
+- [] Cup holders (laser, with lanes)
 - [ ] Cable connections (with clamps)
 ### Physical stuff
 - [ ] Check overhead II
 - [ ] Rollen (2x?)
 - [ ] Repair the bike
+- [ ] Cups 7.5 diameter
 ### Software
 - [ ] Replace numbers with content
+- [ ] Make the animation more fun
 ### Admin
-- [ ] Verzekerigen
+- [x] Verzekerigen
 ## Could have
 ### E-hardware
-- [ ] Pedal connection
+- [x] Pedal connection
 ### Physical stuff
 - [ ] Nerf ammo catcher
 ### Software
 - [ ] New movies
-- [ ] Pedal reveal
-- [ ] Rotation for more than 6 options
+- [x] Pedal reveal
+- [x] Rotation for more than 6 options
 - [ ] Send vote to database
