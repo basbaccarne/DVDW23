@@ -4,6 +4,7 @@ This is a game that challenges players to shoot cups that trigger animations on 
 The shot cups are stored as votes in a Google Sheet.
 
 ![](dvdw_demo.gif)
+![](actionshot.jpg)
 
 # Set-up
 * **Six GL5516LDR photoresistors** are connected to the analog pins of a Seeed Studio XIAO ESP32S3
